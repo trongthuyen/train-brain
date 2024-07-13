@@ -87,7 +87,7 @@ export const FILTER_TIMEFRAME_OPTIONS: Option[] = [
   },
   {
     label: "Past 90 days",
-    value: 90,
+    value: 190,
     disabled: false,
   },
 ];
